@@ -9,7 +9,6 @@
 🎓 &nbsp;Ben Yönetim Bilişim Sistemleri mezunuyum.\
 🌱 &nbsp;Şu anda Front-end alanında angular öğrenmekteyim.\
 ✍️ &nbsp;Boş zamanlarımda ailemin işlerine destek oluyorum. İşletmemizin teknolojiye açık ve yenilikçi alanlarda bulunmasına olanak sağlıyorum.\
-
 ✉️ &nbsp;Bana ftmkrsyr0q@gmail.com adresinden bir e-posta gönderebilirsiniz! Elimden geldiğince kısa sürede cevap vermeye çalışacağım.\
 
 
@@ -54,13 +53,11 @@
 <p align="center">
 <!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://linkedin.com/in/Fatmakarasayar"><img src="https://img.shields.io/badge/fatma-karasayar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  
 <a href="mailto:ftmkrsyr0q@gmail.com"><img src="https://img.shields.io/badge/-ftmkrsyr0q@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/fatmakarasayar"><img src="https://img.shields.io/badge/-@fatmakarasayar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/fatmakarasayar"><img src="https://img.shields.io/badge/-@fatmakarasayar-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <!-- <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
 <!-- <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
 </p>
-
 -----
 Credits: [Aditya Vikram Singh](https://github.com/Fatmakarasayar)
