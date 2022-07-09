@@ -56,6 +56,7 @@
 <a href="mailto:ftmkrsyr0q@gmail.com"><img src="https://img.shields.io/badge/-ftmkrsyr0q@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/fatmakarasayar"><img src="https://img.shields.io/badge/-@fatmakarasayar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/fatmakarasayar"><img src="https://img.shields.io/badge/-@fatmakarasayar-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://medium.com/@ftmkrsyr0q"><img src="https://img.shields.io/badge/-@ftmkrsyr0q-1877F3?style=flat&logo=Medium&logoColor=white"/></a>
 <!-- <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
 <!-- <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
 </p>
