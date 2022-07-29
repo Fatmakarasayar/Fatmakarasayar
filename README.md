@@ -1,7 +1,7 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Selam! ben Fatma</h2>
 
-<!-- ## 👋 &nbsp;Merhaba! Ben Fatma-->
+<!-- ## 👋 &nbsp;Merhaba! Ben Fatma -->
 
 ### 👨🏻‍💻 &nbsp;Benim hakkımda
 
