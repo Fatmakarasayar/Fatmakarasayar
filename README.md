@@ -7,7 +7,7 @@
 
 💡 &nbsp;Yeni teknolojileri keşfetmeyi ve yazılım geliştirmeyi seviyorum..\
 🎓 &nbsp;Yönetim Bilişim Sistemleri mezunuyum.\
-🌱 &nbsp;Şu anda Front-end alanında angular öğrenmekteyim.\
+🌱 &nbsp;Şu anda Front-end alanında react öğrenmekteyim.\
 ✍️ &nbsp;Boş zamanlarımda ailemin işletmesine destek oluyorum. İşletmemizin teknolojiye açık ve yenilikçi alanlarda bulunmasına olanak sağlıyorum.\
 ✉️ &nbsp;Bana ftmkrsyr0q@gmail.com adresinden bir e-posta gönderebilirsiniz! Elimden geldiğince kısa sürede cevap vermeye çalışacağım.
 
