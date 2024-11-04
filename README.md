@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;Benim hakkımda
 
-💡 &nbsp;Yeni teknolojileri keşfetmeyi ve yazılım geliştirmeyi seviyorum..\
+🔭 &nbsp; Şu anda Turkcell Grup Şirketi Atmosware'de çalışıyorum.\
 🎓 &nbsp;Yönetim Bilişim Sistemleri mezunuyum.\
 🌱 &nbsp;Şu anda Front-end alanında react öğrenmekteyim.\
 ✍️ &nbsp;Boş zamanlarımda ailemin işletmesine destek oluyorum. İşletmemizin teknolojiye açık ve yenilikçi alanlarda bulunmasına olanak sağlıyorum.\
